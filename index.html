@@ -13,9 +13,9 @@
     </div>
 
     <script>
-        $.getJSON("https://juliusfirstwebserver.herokuapp.com/", function (data) {
+        $.getJSON("https://webappcombii.herokuapp.com/", function (data) {
             var html = "<h1>" + data.title + "</h1>";
-            html += "<p>" + data.text + "</p>"
+            html += "<p>" + data.text + "</p>";
             $("#page_content").html(html); // inject the html into the div with id "page_content"
         });
     </script>
