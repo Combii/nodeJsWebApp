@@ -17,5 +17,10 @@
     "url": "https://github.com/juliusmandas/myfirstweb/issues"
   },
   "homepage": "https://github.com/juliusmandas/myfirstweb#readme",
-  "engines" : {"node" : "0.12.x"}
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "npm": "^5.4.1"
+  }
 }
