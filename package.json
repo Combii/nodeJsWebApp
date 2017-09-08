@@ -9,16 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juliusmandas/myfirstweb.git"
-  },
-  "author": "Julius",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/juliusmandas/myfirstweb/issues"
-  },
-  "homepage": "https://github.com/juliusmandas/myfirstweb#readme",
-  "engines": {
-    "node": "0.12.x"
+    "url": "git+https://github.com/Combii/nodeJsWebApp"
   },
   "dependencies": {
     "npm": "^5.4.1"
